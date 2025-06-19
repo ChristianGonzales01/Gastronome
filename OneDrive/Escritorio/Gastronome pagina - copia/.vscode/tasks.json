@@ -1,0 +1,12 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Abrir Gastronome en navegador",
+      "type": "shell",
+      "command": "Start-Process \"C:\\Users\\potac\\OneDrive\\Escritorio\\Gastronome pagina - copia\\Proyectos\\gastronome\\index.html\"",
+      "group": "build",
+      "isBackground": false
+    }
+  ]
+}
